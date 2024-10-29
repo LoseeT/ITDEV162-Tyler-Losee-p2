@@ -33,3 +33,4 @@
 /Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Persistence/obj/Debug/net8.0/Persistence.pdb
 /Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Persistence/obj/Debug/net8.0/Persistence.genruntimeconfig.cache
 /Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Persistence/obj/Debug/net8.0/ref/Persistence.dll
+/Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Persistence/obj/Debug/net8.0/Persistence.sourcelink.json

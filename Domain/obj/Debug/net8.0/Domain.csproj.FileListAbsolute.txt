@@ -21,3 +21,4 @@
 /Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Domain/obj/Debug/net8.0/refint/Domain.dll
 /Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Domain/obj/Debug/net8.0/Domain.pdb
 /Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Domain/obj/Debug/net8.0/ref/Domain.dll
+/Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Domain/obj/Debug/net8.0/Domain.sourcelink.json

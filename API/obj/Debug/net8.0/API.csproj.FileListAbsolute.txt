@@ -135,3 +135,4 @@
 /Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/API/obj/Debug/net8.0/API.pdb
 /Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/API/obj/Debug/net8.0/API.genruntimeconfig.cache
 /Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/API/obj/Debug/net8.0/ref/API.dll
+/Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/API/obj/Debug/net8.0/API.sourcelink.json

@@ -33,3 +33,4 @@
 /Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Application/obj/Debug/net8.0/refint/Application.dll
 /Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Application/obj/Debug/net8.0/Application.pdb
 /Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Application/obj/Debug/net8.0/ref/Application.dll
+/Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Application/obj/Debug/net8.0/Application.sourcelink.json
