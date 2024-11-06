@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VSCN/IGH4lk=",
+  "dgSpecHash": "80hNwuUrsfg=",
   "success": true,
-  "projectFilePath": "/Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Persistence/Persistence.csproj",
+  "projectFilePath": "/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Persistence/Persistence.csproj",
   "expectedPackageFiles": [
     "/Users/fivecookie3569/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/fivecookie3569/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

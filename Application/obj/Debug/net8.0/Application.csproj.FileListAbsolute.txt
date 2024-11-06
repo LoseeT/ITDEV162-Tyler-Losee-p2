@@ -34,3 +34,21 @@
 /Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Application/obj/Debug/net8.0/Application.pdb
 /Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Application/obj/Debug/net8.0/ref/Application.dll
 /Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Application/obj/Debug/net8.0/Application.sourcelink.json
+/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Application/bin/Debug/net8.0/Application.deps.json
+/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Application/bin/Debug/net8.0/Application.dll
+/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Application/bin/Debug/net8.0/Application.pdb
+/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Application/bin/Debug/net8.0/Domain.dll
+/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Application/bin/Debug/net8.0/Persistence.dll
+/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Application/bin/Debug/net8.0/Domain.pdb
+/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Application/bin/Debug/net8.0/Persistence.pdb
+/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache
+/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Application/obj/Debug/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Application/obj/Debug/net8.0/Application.AssemblyInfoInputs.cache
+/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Application/obj/Debug/net8.0/Application.AssemblyInfo.cs
+/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache
+/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Application/obj/Debug/net8.0/Application.sourcelink.json
+/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Application/obj/Debug/net8.0/Applicat.44B5EDA2.Up2Date
+/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Application/obj/Debug/net8.0/Application.dll
+/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Application/obj/Debug/net8.0/refint/Application.dll
+/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Application/obj/Debug/net8.0/Application.pdb
+/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Application/obj/Debug/net8.0/ref/Application.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FqcRdD4rbTU=",
+  "dgSpecHash": "pCtDYqWoqPc=",
   "success": true,
-  "projectFilePath": "/Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/API/API.csproj",
+  "projectFilePath": "/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/fivecookie3569/.nuget/packages/microsoft.aspnetcore.openapi/8.0.8/microsoft.aspnetcore.openapi.8.0.8.nupkg.sha512",
     "/Users/fivecookie3569/.nuget/packages/microsoft.data.sqlite.core/8.0.8/microsoft.data.sqlite.core.8.0.8.nupkg.sha512",

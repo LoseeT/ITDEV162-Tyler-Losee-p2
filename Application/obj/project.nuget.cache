@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sx1uMj+8SBk=",
+  "dgSpecHash": "eWiRsoyJlf8=",
   "success": true,
-  "projectFilePath": "/Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Application/Application.csproj",
+  "projectFilePath": "/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Application/Application.csproj",
   "expectedPackageFiles": [
     "/Users/fivecookie3569/.nuget/packages/microsoft.data.sqlite.core/8.0.8/microsoft.data.sqlite.core.8.0.8.nupkg.sha512",
     "/Users/fivecookie3569/.nuget/packages/microsoft.entityframeworkcore/8.0.8/microsoft.entityframeworkcore.8.0.8.nupkg.sha512",

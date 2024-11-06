@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/API/API.csproj": {}
+    "/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/API/API.csproj": {}
   },
   "projects": {
-    "/Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/API/API.csproj": {
+    "/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/API/API.csproj",
+        "projectUniqueName": "/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/API/API.csproj",
         "projectName": "API",
-        "projectPath": "/Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/API/API.csproj",
+        "projectPath": "/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/API/API.csproj",
         "packagesPath": "/Users/fivecookie3569/.nuget/packages/",
-        "outputPath": "/Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/API/obj/",
+        "outputPath": "/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/fivecookie3569/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Application/Application.csproj": {
-                "projectPath": "/Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Application/Application.csproj"
+              "/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Application/Application.csproj": {
+                "projectPath": "/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Application/Application.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "/Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Application/Application.csproj": {
+    "/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Application/Application.csproj",
+        "projectUniqueName": "/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "/Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Application/Application.csproj",
+        "projectPath": "/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Application/Application.csproj",
         "packagesPath": "/Users/fivecookie3569/.nuget/packages/",
-        "outputPath": "/Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Application/obj/",
+        "outputPath": "/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/fivecookie3569/.nuget/NuGet/NuGet.Config"
@@ -109,11 +109,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Domain/Domain.csproj": {
-                "projectPath": "/Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Domain/Domain.csproj"
+              "/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Domain/Domain.csproj": {
+                "projectPath": "/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Domain/Domain.csproj"
               },
-              "/Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Persistence/Persistence.csproj": {
-                "projectPath": "/Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Persistence/Persistence.csproj"
+              "/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Persistence/Persistence.csproj"
               }
             }
           }
@@ -152,14 +152,14 @@
         }
       }
     },
-    "/Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Domain/Domain.csproj": {
+    "/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Domain/Domain.csproj",
+        "projectPath": "/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Domain/Domain.csproj",
         "packagesPath": "/Users/fivecookie3569/.nuget/packages/",
-        "outputPath": "/Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Domain/obj/",
+        "outputPath": "/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/fivecookie3569/.nuget/NuGet/NuGet.Config"
@@ -210,14 +210,14 @@
         }
       }
     },
-    "/Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Persistence/Persistence.csproj": {
+    "/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Persistence/Persistence.csproj",
+        "projectUniqueName": "/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Persistence/Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "/Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Persistence/Persistence.csproj",
+        "projectPath": "/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Persistence/Persistence.csproj",
         "packagesPath": "/Users/fivecookie3569/.nuget/packages/",
-        "outputPath": "/Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Persistence/obj/",
+        "outputPath": "/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/fivecookie3569/.nuget/NuGet/NuGet.Config"
@@ -232,8 +232,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Domain/Domain.csproj": {
-                "projectPath": "/Users/fivecookie3569/Documents/ITDEV162/Losee_Activity-6/Domain/Domain.csproj"
+              "/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Domain/Domain.csproj": {
+                "projectPath": "/Users/fivecookie3569/Documents/ITDEV162/ITDEV161 - Losee/Domain/Domain.csproj"
               }
             }
           }
