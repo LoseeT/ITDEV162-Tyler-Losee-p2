@@ -1,8 +1,10 @@
-import { HttpClient } from '@angular/common/http';
+// src/app/home/home.component.ts
 import { Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { MatCardModule } from '@angular/material/card';
 import { MatButtonModule } from '@angular/material/button';
+import { PostService } from '../services/post.service';
+import { Post } from '../models/post.model';
 
 @Component({
   selector: 'app-home',
@@ -13,19 +15,14 @@ import { MatButtonModule } from '@angular/material/button';
     MatButtonModule
   ],
   templateUrl: './home.component.html',
-  styleUrl: './home.component.css'
+  styleUrls: ['./home.component.css']
 })
-export class HomeComponent {
-  posts: any;
+export class HomeComponent implements OnInit {
+  posts: Post[] = [];
 
-  constructor(private http: HttpClient){
+  constructor(private postService: PostService) { }
 
-  }
   ngOnInit(): void {
-    this.http.get('http://localhost:5278/api/posts').subscribe({
-      next: (response) => this.posts = response,
-      error: (e) => console.error(e),
-      complete: () => console.log('complete')
-  });
+    this.posts = this.postService.getPosts();
   }
 }
